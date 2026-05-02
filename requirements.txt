@@ -1,0 +1,4 @@
+agno>=2.2.10
+google-genai
+streamlit==1.40.2
+python-dotenv
